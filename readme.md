@@ -4,8 +4,10 @@
 
 ##### Instance Resouces:
 
-- EC2 Instance (ap-southeast-1)
-  - Instance ID: `i-0c2595c0928e1ea2f`
+- EC2 Instance (ap-southeast-1)  
+<img width="316" alt="Screenshot 2023-04-05 at 23 34 18" src="https://user-images.githubusercontent.com/69737492/230226705-9462ebf8-bf05-4470-9b32-d1cde102d7fa.png">
+<img width="191" alt="Screenshot 2023-04-05 at 23 34 27" src="https://user-images.githubusercontent.com/69737492/230226723-b9f2800a-45d7-4f97-b675-e30fe6990605.png">
+<img width="519" alt="Screenshot 2023-04-05 at 23 34 44" src="https://user-images.githubusercontent.com/69737492/230226732-bf875715-f42a-46e1-b4d8-33af62bdafc3.png">
 
 
 Connection:
