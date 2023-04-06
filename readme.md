@@ -1,5 +1,5 @@
-#### SUI - [Air drop](https://twitter.com/ardizor/thread/1642874737390133249)
-- It's a scam, no air drops. The instructions are how to setup a dev node.
+#### SUI
+- The instructions are how to setup a dev node.
 - Most people out there are abusing the faucet.
 
 ##### Instance Resouces:
